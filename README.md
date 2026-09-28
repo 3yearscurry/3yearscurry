@@ -6,6 +6,7 @@
 
 <div align="center">
 <img width="480" height="368" alt="IMG_0416" src="https://github.com/user-attachments/assets/753f768c-eb6e-4b84-8720-43d0e5289f1a" />
+  
 *(잠시 시간내어 저의 프로필을 봐주셔서 감사합니다.)*
 
 <br />
