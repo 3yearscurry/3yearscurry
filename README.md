@@ -46,12 +46,12 @@
 ## 📊 My Galaxy Stats (성적표...입니다)
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PARKJIGU&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PARKJIGU&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=3yearscurry&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=3yearscurry&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PARKJIGU&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3yearscurry&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
 
 > `Warning: 이 통계는 저의 피, 땀, 그리고 아이스 아메리카노로 이루어져 있습니다.`
@@ -68,13 +68,13 @@
 ## 🪐 Connect with Me
 
 <div align="center">
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:dkdlsdltkd01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/your_instagram_id" target="_blank">
+  <a href="https://instagram.com/aein_.o4" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://in.pinterest.com/pin/707557791468803811/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white"/>
+  <a href="https://https://ain-jiugae.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Tistory-EB5B00?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory"/>
   </a>
 </div>
