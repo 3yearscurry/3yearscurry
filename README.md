@@ -71,9 +71,6 @@
   <a href="mailto:dkdlsdltkd01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/aein_.o4" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
   <a href="https://ain-jiugae.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/Tistory-EB5B00?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory"/>
   </a>
