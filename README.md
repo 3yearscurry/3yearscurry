@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=36&pause=500&color=EE4D2D&center=true&vCenter=true&width=800&lines=🌌+Welcome+To+My+Universe!+🌌;+커밋하는+외계인... 아니+개발자+이아인입니다.+" alt="Typing SVG" />
-</a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20universe!%20🌌&fontSize=40&animation=fadeIn" width="100%" />
+</div>
 
 <br/>
 
