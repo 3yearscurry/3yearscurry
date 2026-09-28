@@ -13,9 +13,7 @@
 
 <br />
 
-<div align="center">
-  <img src="https://in.pinterest.com/pin/707557791468803811/" width="100%" alt="Space GIF From Pinterest" />
-</div>
+<img width="480" height="368" alt="IMG_0416" src="https://github.com/user-attachments/assets/753f768c-eb6e-4b84-8720-43d0e5289f1a" />
 <div align="center">
   <p><em>(이 GIF는 <a href="https://in.pinterest.com/pin/707557791468803811/">Pinterest</a>에서 영감을 받았습니다!)</em></p>
 </div>
