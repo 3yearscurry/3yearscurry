@@ -1,15 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome%20to%20my%20universe!%20🌌&fontSize=32&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=🌌%20Welcome%20to%20my%20universe!%20🌌&fontSize=32&animation=fadeIn" width="100%" />
 </div>
-
-<br />
-
-### 👽 커밋하는 외계인... 아니 개발자 박지구입니다.
-
-안녕하세요, 성장하는 개발자 박지구입니다! 👽
-문제를 코드로 해결하며, 새로운 기술을 탐색하는 것을 즐깁니다.
-
-> "제 코드는 마치... **어린아이와 같아서**, 잠시만 눈을 떼면 어디선가 에러를 터뜨리곤 하죠." (익명의 개발자)
 
 <br />
 
