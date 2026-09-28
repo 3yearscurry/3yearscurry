@@ -46,8 +46,8 @@
 ## 📊 My Galaxy Stats (성적표...입니다)
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=3yearscurry&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=3yearscurry&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra.com/api?username=3yearscurry&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra.com/api/top-langs/?username=3yearscurry&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
 <div align="center">
