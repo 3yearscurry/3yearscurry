@@ -14,7 +14,7 @@
 <br />
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/d4/da/90/d4da906b3e36e7a2b9e67a6d81290333.gif" width="100%" alt="Space GIF From Pinterest" />
+  <img src="https://in.pinterest.com/pin/707557791468803811/" width="100%" alt="Space GIF From Pinterest" />
 </div>
 <div align="center">
   <p><em>(이 GIF는 <a href="https://in.pinterest.com/pin/707557791468803811/">Pinterest</a>에서 영감을 받았습니다!)</em></p>
