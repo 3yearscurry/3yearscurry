@@ -24,6 +24,16 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
+<p>
+  <!-- C# 뱃지 -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+
+  <!-- WinUI 3 / Windows App SDK 뱃지 -->
+  <img src="https://img.shields.io/badge/WinUI_3-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="WinUI 3"/>
+
+  <!-- .NET 뱃지 (WinUI 개발 시 함께 자주 사용) -->
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+</p>
 
 *(이 외에도 구글 검색 한 번이면 무엇이든 '잠시' 다룰 수 있습니다.)*
 
